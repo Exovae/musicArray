@@ -1,0 +1,15 @@
+C:\Users\ellio\source\repos\musicArray\musicArray\bin\Debug\net6.0\musicArray.exe
+C:\Users\ellio\source\repos\musicArray\musicArray\bin\Debug\net6.0\musicArray.deps.json
+C:\Users\ellio\source\repos\musicArray\musicArray\bin\Debug\net6.0\musicArray.runtimeconfig.json
+C:\Users\ellio\source\repos\musicArray\musicArray\bin\Debug\net6.0\musicArray.dll
+C:\Users\ellio\source\repos\musicArray\musicArray\bin\Debug\net6.0\musicArray.pdb
+C:\Users\ellio\source\repos\musicArray\musicArray\obj\Debug\net6.0\musicArray.csproj.AssemblyReference.cache
+C:\Users\ellio\source\repos\musicArray\musicArray\obj\Debug\net6.0\musicArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\source\repos\musicArray\musicArray\obj\Debug\net6.0\musicArray.AssemblyInfoInputs.cache
+C:\Users\ellio\source\repos\musicArray\musicArray\obj\Debug\net6.0\musicArray.AssemblyInfo.cs
+C:\Users\ellio\source\repos\musicArray\musicArray\obj\Debug\net6.0\musicArray.csproj.CoreCompileInputs.cache
+C:\Users\ellio\source\repos\musicArray\musicArray\obj\Debug\net6.0\musicArray.dll
+C:\Users\ellio\source\repos\musicArray\musicArray\obj\Debug\net6.0\refint\musicArray.dll
+C:\Users\ellio\source\repos\musicArray\musicArray\obj\Debug\net6.0\musicArray.pdb
+C:\Users\ellio\source\repos\musicArray\musicArray\obj\Debug\net6.0\musicArray.genruntimeconfig.cache
+C:\Users\ellio\source\repos\musicArray\musicArray\obj\Debug\net6.0\ref\musicArray.dll
